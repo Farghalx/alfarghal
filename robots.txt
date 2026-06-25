@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://farghalx.github.io/alfarghal/sitemap.xml
+Sitemap: https://elfraghal.com/sitemap.xml
